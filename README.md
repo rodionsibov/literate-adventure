@@ -1,4 +1,5 @@
 # vue-dropdown-component
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0be819fa-1052-48ab-a319-be195ad794c2/deploy-status)](https://app.netlify.com/sites/lucid-murdock-c77523/deploys)
 
 ## Project setup
 ```
